@@ -1,4 +1,3 @@
-from math import pow
 import time
 
 def collatz_conjecture(starting_power):
