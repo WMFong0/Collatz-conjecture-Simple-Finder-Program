@@ -41,7 +41,6 @@ def collatz_conjecture(starting_power):
         result['numbers_with_max_steps'].append(num)
         print(f"\n➕ Found another: {num:,} also takes {steps:,} steps")
         last_print_time = time.time()
-
   return result
 
 print("Collatz Conjecture Maximum Steps Finder")
