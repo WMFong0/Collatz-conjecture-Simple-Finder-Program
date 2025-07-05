@@ -1,4 +1,4 @@
-# Collatz-conjecture-Simple-Finder-Program
+# Collatz conjecture Simple Finder Program
 
 ## Description
 A $${\color{greenyellow}Simple \space \color{blue}Portable \space \color{green}Python}$$ Program for people to discover [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) $${\color{red}maximum \space \color{red}steps}$$ numbers.
